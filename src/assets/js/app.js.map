@@ -1,0 +1,1 @@
+{"version":3,"sources":["elements/buttons/button/button.coffee"],"names":[],"mappings":"AAAA;AAAA,MAAA;;EAAA,GAAA,GAAM,OAAA,CAAQ,KAAR;;EAEA;;;qBACL,IAAA,GAAM;;;;;;EAGP,MAAM,CAAC,QAAD,CAAN,GAAgB,IAAI;AANpB","file":"app.js","sourcesContent":["Vue = require 'vue'\n\nclass Button\n\tname: 'Button'\n\n\nmodule.export = new Button"],"sourceRoot":"/source/"}
